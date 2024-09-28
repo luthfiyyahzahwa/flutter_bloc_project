@@ -1,16 +1,12 @@
 # flutter_bloc_project
 
-A new Flutter project.
+State Management Flutter BloC (Business Logic Component)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Proyek ini merupakan implementasi aplikasi Counter menggunakan Flutter dan manajemen state dengan BloC. Aplikasi ini dikembangkan sebagai bagian dari tugas State Management untuk mata kuliah Pengembangan Aplikasi Perangkat Bergerak(B).
 
-A few resources to get you started if this is your first Flutter project:
+Proyek ini dirancang untuk membantu memahami konsep Business Logic Component (BloC) dalam Flutter, di mana logika bisnis dipisahkan dari antarmuka (UI) pengguna untuk menghasilkan aplikasi yang lebih terstruktur dan mudah dikelola.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Luthfiyyah Zahwa Maitari (H1101221008)   
+Kelompok 3. BloC
